@@ -9,7 +9,7 @@ Install-VSCodium-in-Bookworm
 
     chmod +x install_codium.sh
 
-    ./install_codium.sh
+    sudo ./install_codium.sh
 
     sudo rm -r ~/Downloads/codium
 
